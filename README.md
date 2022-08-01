@@ -1,5 +1,7 @@
 # DisplaySizeMatters
 
+![Logo](Logo.png)
+
 It can be hard to judge how big a TV or PC monitor you should get or how big the difference between two sizes actually is.
 Display Size Matters lets you visually compare televisions of different sizes and aspect ratios.
 
